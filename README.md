@@ -1,1 +1,1 @@
-# Project for CRAFT-OA UI-libray issues
+# Project for CRAFT-OA GDPR
